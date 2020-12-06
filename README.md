@@ -11,5 +11,5 @@
 # Study Career
 
 * [java-load](https://github.com/hs-vae/java-load)  记录从零开始的java之旅
-* [poi-jdbc-compoents](https://github.com/hs-vae/poi-jdbc-compoents)  poi和jdbc对Excel的一些操作
+* [poi-jdbc-compoents](https://github.com/hs-vae/poi-jdbc-compoents)  poi结合jdbc对Excel的一些操作
 
